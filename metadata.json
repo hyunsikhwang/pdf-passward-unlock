@@ -1,0 +1,6 @@
+{
+  "name": "PDF Password Remover",
+  "description": "패스워드가 설정된 PDF 파일을 해제하고 패스워드가 없는 일반 PDF 파일로 다운로드해 주는 웹 프로그램입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
